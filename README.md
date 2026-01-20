@@ -25,7 +25,24 @@ Data loading and understanding
 - Feature engineering (date extraction, duration conversion, encoding)  
 - Exploratory Data Analysis (EDA)  
 - Model building and training  
-- Model evaluation and comparison  
+- Model evaluation and comparison
+## Exploratory Data Analysis (EDA)
+
+### Price Distribution
+![Price Distribution](images/eda_price_distribution.png)
+
+### Price vs Total Stops
+![Price vs Stops](images/eda_price_vs_stops.png)
+
+### Average Price by Airline
+![Airline vs Price](images/eda_airline_avg_price.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/eda_correlation_heatmap.png)
+
+### Model Performance Comparison
+![Model Comparison](images/results_model_comparison.png)
+
 ## Feature Engineering
 - Extracted day and month from journey date  
 - Converted duration into total minutes  
