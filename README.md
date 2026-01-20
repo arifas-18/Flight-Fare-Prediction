@@ -36,7 +36,9 @@ Data loading and understanding
 - Linear Regression  
 - Decision Tree Regressor  
 - Random Forest Regressor  
-- xgboost  
+- xgboost
+## Installation
+pip install -r requirements.txt
 ## Model Evaluation
 The performance of different regression models was evaluated using MAE, RMSE, and R² Score.  
 - MAE (Mean Absolute Error): Average absolute difference between predicted and actual prices  
