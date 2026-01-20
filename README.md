@@ -66,9 +66,6 @@ The performance of different regression models was evaluated using MAE, RMSE, an
 | Random Forest (Tuned) | 1122.30 | 1844.90 | 0.8421 |
 | XGBoost (Tuned) | 1169.08 | 1754.99 | 0.8572 |
 **XGBoost (Tuned)** achieved the highest R² score and lowest RMSE, indicating strong predictive performance for flight fare estimation.
-### Model Performance Comparison
-![Model Comparison](images/results_model_comparison.png)
-
 ## Technologies Used
 - Python  
 - Pandas, NumPy  
