@@ -4,9 +4,9 @@
 Flight ticket prices vary based on factors such as airline, source, destination, journey date, and number of stops.  
 This project predicts flight ticket prices using machine learning to help users and travel platforms estimate fares in advance.
 ## Objective
--To analyze flight fare data.
--To identify important factors affecting ticket prices.
--To build a machine learning model that predicts flight fares accurately.
+- To analyze flight fare data.  
+- To identify important factors affecting ticket prices.  
+- To build a machine learning model that predicts flight fares accurately.  
 ## Dataset
 - Features:
   - Airline
